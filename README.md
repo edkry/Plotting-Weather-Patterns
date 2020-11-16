@@ -5,4 +5,6 @@ The data for this task comes from a subset of The National Centers for Environme
 
 In order to plot correct and informative graph, which is nice to the eye, I've used Matplotlib library to plot the graphs, Pandas library for handling datasets and numpy for making extra calculations. Also, I've applied the principles of Edward Tufte to reduce chart junk and increase data-to-ink ratio. 
 
+Here is the result:
+
 ![alt text](https://raw.githubusercontent.com/edkry/Plotting-Weather-Patterns/main/Result.png)
